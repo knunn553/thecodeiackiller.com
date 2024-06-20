@@ -3,31 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|c:\\users\\knunn\\documents\\projects\\thecodeiackiller.com\\website\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|c:\\users\\knunn\\documents\\projects\\thecodeiackiller.com\\website\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|c:\\users\\knunn\\documents\\projects\\thecodeiackiller.com\\website\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|c:\\users\\knunn\\documents\\projects\\thecodeiackiller.com\\website\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|c:\\users\\knunn\\documents\\projects\\thecodeiackiller.com\\website\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|c:\\users\\knunn\\documents\\projects\\thecodeiackiller.com\\website\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|c:\\users\\knunn\\documents\\projects\\thecodeiackiller.com\\website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14080CE8-9707-448F-8271-5CE9946A7BB7}|website\\website.csproj|solutionrelative:website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,24 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "website\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Routes.razor",
-              "RelativeToolTip": "website\\Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "website\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "website\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T17:58:22.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T18:11:12.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "website\\Components\\Layout\\NavMenu.razor.css",
@@ -63,12 +66,11 @@
               "RelativeToolTip": "website\\Components\\Layout\\NavMenu.razor.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-19T17:55:59.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:55:59.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "website\\Components\\Layout\\NavMenu.razor",
@@ -76,12 +78,11 @@
               "RelativeToolTip": "website\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T17:55:39.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:55:39.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "website\\Components\\Layout\\MainLayout.razor",
@@ -89,12 +90,11 @@
               "RelativeToolTip": "website\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T17:55:16.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:55:16.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "website\\Components\\Pages\\Error.razor",
@@ -102,25 +102,36 @@
               "RelativeToolTip": "website\\Components\\Pages\\Error.razor",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T17:54:53.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:54:53.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "website\\Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "website\\Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-19T17:54:00.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "website\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Components\\Routes.razor",
+              "RelativeToolTip": "website\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:58:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\knunn\\Documents\\Projects\\thecodeiackiller.com\\website\\Program.cs",
               "RelativeDocumentMoniker": "website\\Program.cs",
@@ -128,8 +139,7 @@
               "RelativeToolTip": "website\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:48:10.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:48:10.756Z"
             }
           ]
         }
