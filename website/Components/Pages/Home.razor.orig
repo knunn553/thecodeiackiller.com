@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hi, I'm Kyle Harper Nunn</h1>
+<<<<<<< Updated upstream
+<h1> I love to code. </h1>
+<form> </form>
+=======
+>>>>>>> Stashed changes
+
+Welcome to my website.
+<img src="codeiaclarge.jpg"/>
+
+
+@code
+{
+    
+}
+
+
+
