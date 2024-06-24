@@ -1,5 +1,8 @@
 *.vsidx
-*.bin
+
+
+# Build Results
+[Bb]in/
 
 # Visual Studio 2015 cache/options directory
 *.vs
