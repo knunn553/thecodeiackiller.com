@@ -3,7 +3,7 @@
 
 # Build Results
 [Bb]in/
-bin
+[Oo]bj/
 
 # Visual Studio 2015 cache/options directory
 .vs/
